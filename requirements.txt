@@ -1,0 +1,10 @@
+numpy
+pandas
+rasterio
+geopandas
+shapely
+pyogrio
+scipy
+scikit-image
+scikit-learn
+pytest

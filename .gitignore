@@ -1,0 +1,13 @@
+# Большие данные (GitHub не принимает файлы > 100 МБ)
+dataset.csv
+*.tif
+*.tiff
+*.aux.xml
+
+# Результаты и кэш (пересоздаются скриптами)
+*.gpkg
+*.geojson
+labels_cache.npz
+metrics_*_test.json
+__pycache__/
+.pytest_cache/
